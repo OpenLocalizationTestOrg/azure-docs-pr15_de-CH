@@ -1,0 +1,1 @@
+Verwendung einer Microsoft Azure Traffic Manager zum Lastenausgleich des Datenflusses in der Azure-Website laden, Website dann möglich mithilfe der ** \*. trafficmanager.net** Domänennamen von Azure. Einen benutzerdefinierten Domänennamen wie www.contoso.com ordnen Sie Ihre Website um mehr erkennbar Domänennamen für Benutzer angeben.

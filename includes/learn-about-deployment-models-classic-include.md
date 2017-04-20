@@ -1,0 +1,1 @@
+> [AZURE.IMPORTANT] Azure hat zwei verschiedene Bereitstellungsmodelle für erstellen und Verwenden von Ressourcen: [Ressourcen-Manager und Classic](../articles/resource-manager-deployment-model.md).  Dieser Artikel behandelt das klassische Bereitstellungsmodell verwenden. Microsoft empfiehlt, die neue Ressourcen-Manager-Modell verwendet.

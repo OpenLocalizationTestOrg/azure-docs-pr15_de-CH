@@ -1,0 +1,1 @@
+> [AZURE.IMPORTANT] Vor der Verwendung von Azure-Ressourcen vertraut mit dem Bereitstellungsmodelle: [Resource Manager und Classic](../articles/resource-manager-deployment-model.md).

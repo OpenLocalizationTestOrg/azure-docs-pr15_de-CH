@@ -1,0 +1,5 @@
+Es ist wichtig zu verstehen, dass Azure mit zwei Bereitstellungsmodelle arbeitet: Ressourcen-Manager und Classic. Vor Beginn die Konfiguration sicher, dass Sie die Anleitung für das Bereitstellungsmodell verwenden, der Sie arbeiten möchten. Die beiden Modelle sind nicht vollständig kompatibel.
+
+Z. B. Wenn Sie ein virtuelles Netzwerk, die mit dem klassischen Bereitstellungsmodell erstellt wurde und eine Verbindung zu der VNet hinzufügen arbeiten, verwenden die Bereitstellungsmethoden Sie, die das klassische Bereitstellungsmodell keine Ressourcen-Manager entsprechen. Wenn Sie ein virtuelles Netzwerk arbeiten, die mit dem Ressourcen-Manager-Bereitstellungsmodell erstellt wurde, verwenden Sie die Bereitstellungsmethoden entsprechen mit Resource Manager nicht classic.
+
+Informationen über die Bereitstellungsmodelle finden Sie unter [Understanding Ressourcenmanager und klassischen Bereitstellung](../articles/resource-manager-deployment-model.md).

@@ -1,0 +1,3 @@
+Festlegen einem benutzerdefinierten Domänennamen auf eine Webanwendung in Azure App Service, ist Lastenausgleich von Traffic Manager nur für **Standard** -Modus Websites verfügbar. Bevor eine Web app kostenlos App planmodus Shared, Basic oder Standard-Modus wechseln, müssen Sie zuerst an Ausgaben Caps für Ihr Abonnement App entfernen. 
+
+Weitere App-Plan Domänenmodi wie den Modus der Website ändern, [wie Websites](../articles/app-service-web/web-sites-scale.md)angezeigt.

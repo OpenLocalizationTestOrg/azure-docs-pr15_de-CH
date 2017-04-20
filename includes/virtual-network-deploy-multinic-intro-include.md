@@ -1,0 +1,3 @@
+Sie können virtuelle Maschinen (VMs) in Azure erstellen und jeder Ihrer virtuellen Computer mehrere Netzwerkkarten (NICs) zuordnen. Multi-NIC ist eine Voraussetzung für viele virtuelle Netzwerkgeräte, wie Bereitstellung und WAN-Optimierung Solutions. Multi-NIC bietet mehr Datenverkehr Funktionen für Netzwerkmanagement, einschließlich Isolierung von Datenverkehr zwischen einer Netzwerkkarte beenden und Ende NICs oder Trennung von Datenverkehr Ebene von Verwaltungsdatenverkehr Ebene zurück.
+
+Vor dem Implementieren von mehreren Netzwerkkarten auf VMs ist erforderlich, wenn Sie können mehrere NICs und ihre Verwendung verstehen. [Übersicht über mehrere Netzwerkkarten](../articles/virtual-network/virtual-networks-multiple-nics.md) Informationen VMs mit mehreren NICs lesen.

@@ -1,0 +1,7 @@
+- **Richtlinien:** VPNs Richtlinien wurden bereits statische routing Gateways im klassischen Bereitstellungsmodell aufgerufen. Policy-basierte VPNs verschlüsselt und leiten Pakete durch IPSec-Tunnel auf Grundlage der IPSec-Richtlinien mit den Präfixen zwischen dem lokalen Netzwerk und Azure VNet konfiguriert. Richtlinie (oder Datenverkehr Selector) wird üblicherweise definiert als eine Zugriffsliste der VPN-Konfiguration. Der Wert für einen PolicyBased VPN ist *Richtlinien*. Wenn PolicyBased VPN verwenden, beachten Sie die folgenden Nachteile:
+
+    - Richtlinien-VPNs kann **nur** werden auf grundlegende Gateway SKU verwendet. Diese VPN-Typ ist nicht kompatibel mit anderen Gateway-SKUs.
+    - Sie haben nur 1 Tunnel PolicyBased VPN verwenden.
+    - Nur können Richtlinien VPNs für S2S-Verbindungen und nur bei bestimmten Konfigurationen. Die meisten VPN-Gateway-Konfigurationen erfordern RouteBased VPN.
+
+- **RouteBased**: RouteBased VPNs wurden früher dynamische routing Gateways im klassischen Bereitstellungsmodell. RouteBased verwendeten "Strecken" IP-Weiterleitung oder Routingtabelle Pakete direkt in die entsprechenden Tunnelschnittstellen. Die Tunnelschnittstellen dann verschlüsseln oder entschlüsseln die Pakete in den Tunnel. Richtlinie (oder Datenverkehr Selector) für RouteBased VPNs als n-n-konfiguriert (oder Platzhaltern). Der Wert für einen RouteBased VPN ist *RouteBased*.

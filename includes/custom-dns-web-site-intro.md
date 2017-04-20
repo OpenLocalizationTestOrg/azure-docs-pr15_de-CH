@@ -1,0 +1,1 @@
+Beim Erstellen einer Webanwendung Microsoft Azure bietet angezeigte Domäne in der Domäne *.azurewebsites.NET damit die Benutzern Ihrer Anwendung über eine URL wie http:// zugreifen können&lt;Mywebapp&gt;. *.azurewebsites.NET. Einen benutzerdefinierten Domänennamen, z. B. contoso.com, ordnen Sie mit Ihrer Anwendung um mehr erkennbar Domänennamen für Benutzer angeben.

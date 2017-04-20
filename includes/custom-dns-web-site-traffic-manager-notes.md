@@ -1,0 +1,1 @@
+Wenn Sie bereits ein Profil Traffic Manager keinen, anhand der Informationen in [Traffic Manager Profil mit schnellen Erstellen erstellen](../articles/traffic-manager/traffic-manager-manage-profiles.md) erstellen. Hinweis Die **. trafficmanager.net** Domänennamens Traffic Manager-Profil zugeordnet, wie dies später durch später in diesem Dokument verwendet wird.
