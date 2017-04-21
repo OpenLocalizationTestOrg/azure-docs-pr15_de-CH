@@ -1,0 +1,3 @@
+### <a name="azure-resource-manager-and-azure-service-management"></a>Azure Ressourcenmanager und Azure Servicemanagement
+ 
+Dieser Artikel ist eine Azure-Ressource im Ressourcen-Manager, der über eine Ressource Servicemanagement erstellt Microsoft empfiehlt erstellt. Erläuterung der Vorteile des Ressourcen-Managers finden Sie unter [Azure Compute, Netzwerk und Speicheranbieter unter Azure-Ressourcen-Manager](../articles/virtual-machines/virtual-machines-windows-compare-deployment-models.md). Die gleiche Aufgabe für eine Ressource erstellt Azure Service Management finden Sie im folgenden Artikel:
